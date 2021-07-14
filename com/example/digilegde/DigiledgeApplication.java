@@ -3,7 +3,7 @@ package com.example.digiledge;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication  //Main Class
+@SpringBootApplication  
 public class DigiledgeApplication {
 
     public static void main(String[] args) {
